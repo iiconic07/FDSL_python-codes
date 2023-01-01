@@ -1,3 +1,3 @@
 # FDSL_python-codes
-This repository have sppu fdsl codes
-All python code for FDSl Practical
+<<<<< This repository have SPPU fdsl all Python Codes >>>>>>
+
